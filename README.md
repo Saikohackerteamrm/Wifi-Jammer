@@ -54,4 +54,4 @@ cd Wifi-Jammer && ls
 sudo bash wifi-jammer.sh
 ```
 # Demonstration
-https://youtu.be/faL-VvP2Kvc
+https://t.me/rm7669
